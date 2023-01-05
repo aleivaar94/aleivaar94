@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alejandro</h1>
-<h3 align="center">A data analyst with two years of R&D experience and two years in quality assurance/engineering with an emphasis on data driven decisions and statistical analysis to improve business operations.</h3>
 <p>&nbsp;</p>
 
 - 🏢 I’m currently looking for data analyst positions. I bring domain expertise in the food industry.
