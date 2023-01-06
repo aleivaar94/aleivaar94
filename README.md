@@ -19,9 +19,9 @@
 <head>
   <style>
     div.image-container {
-      display: inline-block;
-      width: 30%;
-      text-align: center;
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      grid-gap: 16px;
     }
     img {
       width: 100%;
