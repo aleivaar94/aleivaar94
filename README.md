@@ -12,75 +12,24 @@
 - 📫 you can reach me at **aj.leivar@gmail.com**
 
 ---
-<h3 align="left"> Recent Projects </h3>
-
-<div align="center" style="display: inline-block; width: 33.33%;">
-  <img src="image1.jpg" alt="">
-  <p>Description 1</p>
-</div>
-
-<!-- Image 2 -->
-<div align="center" style="display: inline-block; width: 33.33%;">
-  <img src="image2.jpg" alt="">
-  <p>Description 2</p>
-</div>
-
-<!-- Image 3 -->
-<div align="center" style="display: inline-block; width: 33.33%;">
-  <img src="image3.jpg" alt="">
-  <p>Description 3</p>
-</div>
-
-<!-- Image 4 -->
-<div align="center" style="display: inline-block; width: 33.33%;">
-  <img src="image4.jpg" alt="">
-  <p>Description 4</p>
-</div>
-
-<!-- Image 5 -->
-<div align="center" style="display: inline-block; width: 33.33%;">
-  <img src="image5.jpg" alt="">
-  <p>Description 5</p>
-</div>
-
-<!-- Image 6 -->
-<div align="center" style="display: inline-block; width: 33.33%;">
-  <img src="image6.jpg" alt="">
-  <p>Description 6</p>
-</div>
-
-
+<h3 align="left"> 🏗️ Recent Projects </h3>
 <br>
 
-<h3 align="left"> Highlighted Projects </h3>
 
-img {
-  max-width: 500px;
-}
 
-| Column 1 | Column 2 | Column 3 |
-|----------|----------|----------|
-| Cell 1   | Cell 2   | Cell 3   |
-|--
-| Cell 4   | Cell 5   | Cell 6   |
+
+<h3 align="left"> 🔥 Highlighted Projects </h3>
+<br>
 
 | ![](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif) <a href="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</a> | ![](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif) <a href="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Analyzing and Visualizing Government of Canada Recalls 2011-2022</a> |
 |----------|----------|
-| 1[](https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API/blob/master/images/code-scrapping-API-gif.gif) <a href="https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API">SQL Database of Save-On-Foods products extracted using API</a>  | ![](https://github.com/aleivaar94/Renew-Amazon-Prime-2022/blob/master/images/boxplot-orders-2022.png) <a href="https://github.com/aleivaar94/Renew-Amazon-Prime-2022">Renew Amazon Prime? A Cost-Benefit Analysis</a>  |
+| ![](https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API/blob/master/images/code-scrapping-API-gif.gif) <a href="https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API">SQL Database of Save-On-Foods products extracted using API</a>  | ![](https://github.com/aleivaar94/Renew-Amazon-Prime-2022/blob/master/images/boxplot-orders-2022.png) <a href="https://github.com/aleivaar94/Renew-Amazon-Prime-2022">Renew Amazon Prime? A Cost-Benefit Analysis</a>  |
 <!-- | Cell 4   | Cell 5   | -->
 
-
-<!-- Image 2 -->
-<div align="center" style="display: inline-block; width: 30%;">
-  <img src="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif" height=75 width=100/>
-  <p>Analyzing and Visualizing Government of Canada Recalls 2011-2022</p>
-</div>
-
-<!-- Image 9 -->
-<div align="center" style="display: inline-block; width: 33.33%;">
-  <img src="image9.jpg" alt="">
-  <p>Description 9</p>
-</div>
+<!-- | Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   | -->
 
 <br>
 
