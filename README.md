@@ -14,17 +14,12 @@
 ---
 <h3 align="left"> Recent Projects </h3>
 
-<img align="left" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> </img>
 
 <head>
   <style>
     div.image-container {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      grid-gap: 16px;
-    }
-    img {
-      width: 100%;
+      display: flex;
+      flex-wrap:wrap;
     }
   </style>
 </head>
@@ -66,14 +61,6 @@
     <img src="image9.jpg" alt="">
     <p>Description 9</p>
   </div>
-
-  <br>
-  <h3 align="left"> Highlighted Projects </h3>
-  <h3 align="left"> 🫱🏼‍🫲🏽Connect with me:</h3>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/ale-leivaar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ale-leivaar/" height="30" width="40" /></a>
-    <a href="https://stackoverflow.com/users/14294794/alejandro-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="test" height="30" width="40" /></a>
-  </p>
 </div>
 
 
