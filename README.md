@@ -64,7 +64,10 @@ img {
 |--
 | Cell 4   | Cell 5   | Cell 6   |
 
-| <img src="https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif"/>| Column 2 | Column 3 |
+| <figure>
+  <img src="https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif" alt="">
+  <figcaption>Caption for the image</figcaption>
+</figure> | Column 2 | Column 3 |
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
