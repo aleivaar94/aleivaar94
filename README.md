@@ -64,16 +64,11 @@ img {
 |--
 | Cell 4   | Cell 5   | Cell 6   |
 
-| ![](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif) <a href="https://example.com">Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022/a>| Column 2 | Column 3 |
+| ![](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif) <a href="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</a> | ![](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif) <a href="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Analyzing and Visualizing Government of Canada Recalls 2011-2022</a> | Column 3 |
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   |
 
-<!-- Image 1 -->
-<div align="center" style="display: inline-block; width: 30%;">
-  <img src="https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif" height=75 width=100/>
-  <p>Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</p>
-</div>
 
 <!-- Image 2 -->
 <div align="center" style="display: inline-block; width: 30%;">
