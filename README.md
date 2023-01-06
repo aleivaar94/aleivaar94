@@ -14,61 +14,65 @@
 ---
 <h3 align="left"> Recent Projects </h3>
 
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="image1.jpg" alt="">
+  <p>Description 1</p>
+</div>
 
-<head>
-  <style>
-    div.image-container {
-      display: flex;
-      flex-wrap:wrap;
-    }
-  </style>
-</head>
+<!-- Image 2 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="image2.jpg" alt="">
+  <p>Description 2</p>
+</div>
 
-<div>
-  <div class="image-container">
-    <img src="image1.jpg" alt="">
-    <p>Description 1</p>
-  </div>
-  <div class="image-container">
-    <img src="image2.jpg" alt="">
-    <p>Description 2</p>
-  </div>
-  <div class="image-container">
-    <img src="image3.jpg" alt="">
-    <p>Description 3</p>
-  </div>
-  <div class="image-container">
-    <img src="image4.jpg" alt="">
-    <p>Description 4</p>
-  </div>
-  <div class="image-container">
-    <img src="image5.jpg" alt="">
-    <p>Description 5</p>
-  </div>
-  <div class="image-container">
-    <img src="image6.jpg" alt="">
-    <p>Description 6</p>
-  </div>
-  <div class="image-container">
-    <img src="image7.jpg" alt="">
-    <p>Description 7</p>
-  </div>
-  <div class="image-container">
-    <img src="image8.jpg" alt="">
-    <p>Description 8</p>
-  </div>
-  <div class="image-container">
-    <img src="image9.jpg" alt="">
-    <p>Description 9</p>
-  </div>
+<!-- Image 3 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="image3.jpg" alt="">
+  <p>Description 3</p>
+</div>
+
+<!-- Image 4 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="image4.jpg" alt="">
+  <p>Description 4</p>
+</div>
+
+<!-- Image 5 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="image5.jpg" alt="">
+  <p>Description 5</p>
+</div>
+
+<!-- Image 6 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="image6.jpg" alt="">
+  <p>Description 6</p>
 </div>
 
 
+<br>
 
+<h3 align="left"> Highlighted Projects </h3>
+<!-- Image 1 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif">
+  <p>Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</p>
+</div>
 
+<!-- Image 2 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif">
+  <p>Analyzing and Visualizing Government of Canada Recalls 2011-2022</p>
+</div>
+
+<!-- Image 9 -->
+<div align="center" style="display: inline-block; width: 33.33%;">
+  <img src="image9.jpg" alt="">
+  <p>Description 9</p>
+</div>
 
 <br>
-<h3 align="left"> Highlighted Projects </h3>
+
 <h3 align="left"> 🫱🏼‍🫲🏽Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ale-leivaar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ale-leivaar/" height="30" width="40" /></a>
@@ -79,10 +83,9 @@
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> 
 <img align="left" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
-<img width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
+<!-- <img width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/> -->
 <img width="50px" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
-<img width="45px" height="45px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>
-<img width="45px" height="45px" style="padding-right:10px;" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/plot_ly/plot_ly-official.svg"/>
+<!-- <img width="45px" height="45px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/> -->
 <img width="45px" height="45px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 <img width="45px" height="45px" style="padding-right:10px;" src="https://img.icons8.com/color/512/power-bi.png"/>
 <img width="45px" height="45px" style="padding-right:10px;" src="https://img.icons8.com/color/512/tableau-software.png"/>
