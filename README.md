@@ -64,10 +64,10 @@ img {
 |--
 | Cell 4   | Cell 5   | Cell 6   |
 
-| ![](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif) <a href="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</a> | ![](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif) <a href="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Analyzing and Visualizing Government of Canada Recalls 2011-2022</a> | Column 3 |
-|----------|----------|----------|
-| Cell 1   | Cell 2   | Cell 3   |
-| Cell 4   | Cell 5   | Cell 6   |
+| ![](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif) <a href="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</a> | ![](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif) <a href="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Analyzing and Visualizing Government of Canada Recalls 2011-2022</a> |
+|----------|----------|
+| 1[](https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API/blob/master/images/code-scrapping-API-gif.gif) <a href="https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API">SQL Database of Save-On-Foods products extracted using API</a>  | ![](https://github.com/aleivaar94/Renew-Amazon-Prime-2022/blob/master/images/boxplot-orders-2022.png) <a href="https://github.com/aleivaar94/Renew-Amazon-Prime-2022">Renew Amazon Prime? A Cost-Benefit Analysis</a>  |
+<!-- | Cell 4   | Cell 5   | -->
 
 
 <!-- Image 2 -->
