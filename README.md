@@ -5,11 +5,11 @@
 
 - 📚 I’m currently learning **Machine Learning, NLP (Natural Language Processing) and APIs**.
 
-- 📊 All of my projects are available in my GitHub repository or my [portfolio](https://bit.ly/3NRN7pm).
+- 📊 My projects are available in my GitHub repository or my [portfolio](https://bit.ly/3NRN7pm).
 
 - 💬 Ask me about **data science, data analytics, food science and food safety**.
 
-- 📫 you can reach me at **aj.leivar@gmail.com**
+- 📫 You can reach me at **aj.leivar@gmail.com**
 
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
@@ -20,7 +20,7 @@
 
 
 
-<h3 align="left"> 🔥 Highlighted Projects </h3>
+<h3 align="left"> 🔥 Some Highlighted Projects </h3>
 
 | ![](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif) <a href="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</a> | ![](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif) <a href="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Analyzing and Visualizing Government of Canada Recalls 2011-2022</a> |
 |----------|----------|
