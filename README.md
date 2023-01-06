@@ -162,7 +162,7 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 <br> 
 <small>2022</small>
 
-**DATA ANALYST IN PYTHON \|** *Dataquest *
+**DATA ANALYST IN PYTHON \|** *Dataquest*
 <br> 
 <small>2020</small>
 </details>
