@@ -13,13 +13,14 @@
 
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
-<br>
+
+| ![](https://github.com/aleivaar94/aleivaar94/blob/master/images/Insights-City-Supply-Demand.png) <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Insights-City-Supply-Demand">Insights City Supply Demand </a> | ![](https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png) <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
+|----------|----------|
 
 
 
 
 <h3 align="left"> 🔥 Highlighted Projects </h3>
-<br>
 
 | ![](https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif) <a href="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011-2022</a> | ![](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif) <a href="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts">Analyzing and Visualizing Government of Canada Recalls 2011-2022</a> |
 |----------|----------|
@@ -30,8 +31,6 @@
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   | -->
-
-<br>
 
 <h3 align="left"> 🫱🏼‍🫲🏽Connect with me:</h3>
 <p align="left">
