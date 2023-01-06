@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **Machine Learning, NLP (Natural Language Processing) and APIs**.
 
-- 📊 All of my projects are available at My GitHub repository or my [portfolio](https://bit.ly/3NRN7pm).
+- 📊 All of my projects are available in my GitHub repository or my [portfolio](https://bit.ly/3NRN7pm).
 
 - 💬 Ask me about **data science, data analytics, food science and food safety**.
 
@@ -14,24 +14,92 @@
 ---
 <h3 align="left"> Recent Projects </h3>
 
+<img align="left" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> </img>
 
+<head>
+  <style>
+    div.image-container {
+      display: inline-block;
+      width: 30%;
+      text-align: center;
+    }
+    img {
+      width: 100%;
+    }
+  </style>
+</head>
+
+<div>
+  <div class="image-container">
+    <img src="image1.jpg" alt="">
+    <p>Description 1</p>
+  </div>
+  <div class="image-container">
+    <img src="image2.jpg" alt="">
+    <p>Description 2</p>
+  </div>
+  <div class="image-container">
+    <img src="image3.jpg" alt="">
+    <p>Description 3</p>
+  </div>
+  <div class="image-container">
+    <img src="image4.jpg" alt="">
+    <p>Description 4</p>
+  </div>
+  <div class="image-container">
+    <img src="image5.jpg" alt="">
+    <p>Description 5</p>
+  </div>
+  <div class="image-container">
+    <img src="image6.jpg" alt="">
+    <p>Description 6</p>
+  </div>
+  <div class="image-container">
+    <img src="image7.jpg" alt="">
+    <p>Description 7</p>
+  </div>
+  <div class="image-container">
+    <img src="image8.jpg" alt="">
+    <p>Description 8</p>
+  </div>
+  <div class="image-container">
+    <img src="image9.jpg" alt="">
+    <p>Description 9</p>
+  </div>
+
+  <br>
+  <h3 align="left"> Highlighted Projects </h3>
+  <h3 align="left"> 🫱🏼‍🫲🏽Connect with me:</h3>
+  <p align="left">
+    <a href="https://www.linkedin.com/in/ale-leivaar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ale-leivaar/" height="30" width="40" /></a>
+    <a href="https://stackoverflow.com/users/14294794/alejandro-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="test" height="30" width="40" /></a>
+  </p>
+</div>
+
+
+
+
+
+<br>
 <h3 align="left"> Highlighted Projects </h3>
-
 <h3 align="left"> 🫱🏼‍🫲🏽Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ale-leivaar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ale-leivaar/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/14294794/alejandro-l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="test" height="30" width="40" /></a>
-
 </p>
+
 
 <h3 align="left">🧰 Languages and Tools:</h3>
 <p align="left"> 
-<img align="left" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> <img width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
+<img align="left" width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" /> 
+<img width="50px" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"/>
 <img width="50px" height="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/>
 <img width="45px" height="45px" style="padding-right:10px;" src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg"/>
+<img width="45px" height="45px" style="padding-right:10px;" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/plot_ly/plot_ly-official.svg"/>
 <img width="45px" height="45px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg"/>
 <img width="45px" height="45px" style="padding-right:10px;" src="https://img.icons8.com/color/512/power-bi.png"/>
 <img width="45px" height="45px" style="padding-right:10px;" src="https://img.icons8.com/color/512/tableau-software.png"/>
+<img width="45px" height="45px" style="padding-right:10px;" src="https://img.icons8.com/color/512/microsoft-excel-2019.png"/>
 </p>
 
 <!-- if you want to add hyperlink to icon: -->
@@ -42,23 +110,21 @@
 
 <details>
  <summary><h3>🖥️ My Coding Journey</h3></summary>
-   I was introduced to SQL when I was working as a quality engineer for IBM where I realized the power a couple lines of code to solve business problems. As a naturally curious person this sparked an interest to learn Python to understand the data collected in my chemistry experiments while I did my masters research in food science at UBC.
+   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM. There I realized the power a couple lines of code to solve business problems. As a naturally curious person and always looking to learn something new I stumbled upon Python, after searching other coding languages specifically for data analysis. Next thing you know, I was already applying Excel and Python to understand the data collected in my chemistry experiments while I did my masters research in food science at UBC.
    <br>
    <br>
-   After graduating and working in quality and food safety I decided that a career where I could use data and some code to make better decisions was what I wanted. But I remain passionate about the food industry.
+   After graduating and working in quality and food safety I decided that a career where I could use data and some code to make better decisions was what I wanted. Although I remain passionate about the food industry.
    <br>
    <br>
-   That brings me to today. I still am very curious and driven to learn the ins and outs to become a successful data scientist.
+   That brings me to today. I still am very curious and driven to learn the ins and outs to become a successful data scientist. Keep a look out as I will be uploading more data projects in my repo.
+
+   Cheers!
 </details>
 
 <details>
  <summary><h3>📜 Resume</h3></summary>
 
-- Food industry domain expertise and a post-graduate in a STEM discipline. 
-- 2 years of combined data analysis experience using
-Excel, Python, SQL, and BI. Experience working with SAP and MRPeasy.
----
-<center><b>SKILLS</b></center>
+<h3 align='center'><b>SKILLS</b></h3>
 
 | BI Tools | Data Analysis | Databases | Other  |
 |:-------------|:---------------:|:---------------:|:-----|
@@ -66,7 +132,8 @@ Excel, Python, SQL, and BI. Experience working with SAP and MRPeasy.
 
 ---
 
-<center><b>EXPERIENCE</b></center>
+<h3 align='center'><b>EXPERIENCE</b></h3>
+<br>
 
 **INSIGHTS & ANALYTICS SPECIALIST |** *Spread'Em Kitchen* 
 <br>
@@ -75,6 +142,10 @@ Excel, Python, SQL, and BI. Experience working with SAP and MRPeasy.
 Data analysis of food CPG (consumer packaged goods) sales and marketing
 data to inform effective promotions and efficient distribution points.
 Customer analytics to understand customer needs.
+
+**Key Contributions:**
+
+- Compiled a database of POS reports from 5 different CPG distributors, ensuring data quality and consistency.
 
 **BUSINESS DEVELOPMENT COORDINATOR |** *Herbaland Naturals* 
 <br>
@@ -113,9 +184,8 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
     speed assembly and 110k+ annual savings related to waste.
 
 ---
-<center><b>EDUCATION</b></center>
-
-
+<h3 align='center'><b>EDUCATION</b></h3>
+<br>
 
 **MSc FOOD SCIENCE \|** *University of British Columbia* - Canada
 <br> 
@@ -128,14 +198,22 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 ---
 
-<center><b>PROFESSIONAL DEVELOPMENT</b></center>
+<h3 align='center'><b>PROFESSIONAL DEVELOPMENT</b></h3>
+<br>
 
 **DATA SCIENTIST: MACHINE LEARNINING \|** *Codecademy*
+<br> 
+<small>2022</small>
 
 **DATA SCIENTIST: NATURAL LANGUAGE PROCESSING \|** *Codecademy*
+<br> 
+<small>2022</small>
 
 **DATA SCIENTIST: ANALYTICS SPECIALIST \|** *Codecademy*
+<br> 
+<small>2022</small>
 
-**DATA ANALYST IN PYTHON \|** *Dataquest **2020***
+**DATA ANALYST IN PYTHON \|** *Dataquest *
+<br> 
+<small>2020</small>
 </details>
-
