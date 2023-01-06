@@ -53,6 +53,22 @@
 <br>
 
 <h3 align="left"> Highlighted Projects </h3>
+
+img {
+  max-width: 500px;
+}
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+|--
+| Cell 4   | Cell 5   | Cell 6   |
+
+| Column 1 | Column 2 | Column 3 |
+|----------|----------|----------|
+| Cell 1   | Cell 2   | Cell 3   |
+| Cell 4   | Cell 5   | Cell 6   |
+
 <!-- Image 1 -->
 <div align="center" style="display: inline-block; width: 30%;">
   <img src="https://github.com/aleivaar94/images-projects/blob/master/extracting-recalls-links.gif"height=75 width=100/>
