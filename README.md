@@ -1,20 +1,23 @@
-<h1 align="center">Hi 👋, I'm Alejandro</h1>
+<h1 align="center">Hi 👋, <br>
+I'm Alejandro</h1>
 <p>&nbsp;</p>
 
-- 🏢 I’m currently looking for data analyst positions. I bring domain expertise in the food industry.
+- 🏢 I’m currently looking for data analyst positions. I bring domain expertise in the CPG food industry.
 
-- 📚 I’m currently learning **Machine Learning, NLP (Natural Language Processing) and APIs**.
+- 📚 I’m currently learning **Machine Learning, APIs, and Streamlit**.
 
-- 📊 My projects are available in my GitHub repository or my [portfolio](https://bit.ly/3NRN7pm).
+- 📊 My projects are available in my GitHub repository. Click `Repositories` above or you can also see a list of all my projects below.
 
-- 💬 Ask me about **data science, data analytics, food science and food safety**.
+- 💬 Ask me about **data science, data analytics, food science, food safety, smartphone repair**
+
+- 📖 Currently reading Thinking, Fast and Slo by Kahneman, Danie.
 
 - 📫 You can reach me at **aj.leivar@gmail.com**
 
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
 
-| ![](https://github.com/aleivaar94/aleivaar94/blob/master/images/Insights-City-Supply-Demand.png) <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Insights-City-Supply-Demand">Insights City Supply Demand </a> | ![](https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png) <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
+| ![](https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif) <a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> | ![](https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png) <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
 |----------|----------|
 
 
@@ -31,6 +34,9 @@
 |----------|----------|----------|
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   | -->
+
+<h3 align="left"> 🔢 All Projects </h3>
+Coming soon...
 
 <h3 align="left"> 🫱🏼‍🫲🏽Connect with me:</h3>
 <p align="left">
@@ -58,15 +64,16 @@
 
 
 <details>
- <summary><h3>🖥️ My Coding Journey</h3></summary>
-   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM. There I realized the power a couple lines of code to solve business problems. As a naturally curious person and always looking to learn something new I stumbled upon Python, after searching other coding languages specifically for data analysis. Next thing you know, I was already applying Excel and Python to understand the data collected in my chemistry experiments while I did my masters research in food science at UBC.
+ <summary><h3>🖥️ My Journey into Data</h3></summary>
+   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM. There I realized the power a couple lines of code to solve business problems. As a naturally curious person and always looking to learn something new I stumbled upon Python for data analysis. Next thing you know, I was already applying Excel and Python to understand the data collected in my chemistry experiments while I did my masters research in food science at UBC.
    <br>
    <br>
-   After graduating and working in quality and food safety I decided that a career where I could use data and some code to make better decisions was what I wanted. Although I remain passionate about the food industry.
+   After graduating and working in quality and food safety I decided to pursue a career in data although I still remain passionate about the food industry.
    <br>
    <br>
-   That brings me to today. I still am very curious and driven to learn the ins and outs to become a successful data scientist. Keep a look out as I will be uploading more data projects in my repo.
-
+   Keep a look out as I will be uploading more data projects in my repo.
+   <br>
+   <br>
    Cheers!
 </details>
 
@@ -75,9 +82,13 @@
 
 <h3 align='center'><b>SKILLS</b></h3>
 
+<center>
+
 | BI Tools | Data Analysis | Databases | Other  |
 |:-------------|:---------------:|:---------------:|:-----|
 | Power BI, Tableau | Python, Excel   | SQL | SAP, MRPEasy  |
+
+</center>
 
 ---
 
@@ -86,7 +97,7 @@
 
 **INSIGHTS & ANALYTICS SPECIALIST |** *Spread'Em Kitchen* 
 <br>
-<small>Nov 2022 - Dec 2022</small>
+<sup>Nov 2022 - Dec 2022</sup>
 
 Data analysis of food CPG (consumer packaged goods) sales and marketing
 data to inform effective promotions and efficient distribution points.
@@ -98,16 +109,16 @@ Customer analytics to understand customer needs.
 
 **BUSINESS DEVELOPMENT COORDINATOR |** *Herbaland Naturals* 
 <br>
-<small>Apr 2022 - Jul 2022</small>
+<sup>Apr 2022 - Jul 2022</sup>
 
 Project management of nutraceutical, candy, and snack private label
 projects. Communication of customers business needs to key areas of the
 business. Providing sales pitches and maintaining customer
 relationships.
 
-**QUALITY ASSURANCE TECHNICIAN /|** *The Very Good Food Co* 
+**QUALITY ASSURANCE TECHNICIAN |** *The Very Good Food Co* 
 <br>
-<small>Feb 2021 - Feb 2022</small>
+<sup>Feb 2021 - Feb 2022</sup>
 
 Monitoring and maintenance of the quality KPIs and the food safety
 management system. Developed standard operating procedures (SOPs),
@@ -122,7 +133,7 @@ audits.
 
 **QUALITY ENGINEER |** *IBM* 
 <br>
-<small>Dec 2017 - Oct 2018</small>
+<sup>Dec 2017 - Oct 2018</sup>
 
 Responsible for monitoring and reporting quality KPIs using data
 analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
@@ -138,11 +149,11 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 **MSc FOOD SCIENCE \|** *University of British Columbia* - Canada
 <br> 
-<small>Jan 2019 - Oct 2020</small>
+<sup>Jan 2019 - Oct 2020</sup>
 
 **BSc BIOTECHNOLOGY ENGINEERING \|** *Tec de Monterrey* - Mexico
 <br> 
-<small>Aug 2012 - May 2017</small>
+<sup>Aug 2012 - May 2017</sup>
 
 
 ---
@@ -152,17 +163,19 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 **DATA SCIENTIST: MACHINE LEARNINING \|** *Codecademy*
 <br> 
-<small>2022</small>
+<sup>2022</sup>
 
 **DATA SCIENTIST: NATURAL LANGUAGE PROCESSING \|** *Codecademy*
 <br> 
-<small>2022</small>
+<sup>2022</sup>
 
 **DATA SCIENTIST: ANALYTICS SPECIALIST \|** *Codecademy*
 <br> 
-<small>2022</small>
+<sup>2022</sup>
 
 **DATA ANALYST IN PYTHON \|** *Dataquest*
 <br> 
-<small>2020</small>
+<sup>2020</sup>
 </details>
+
+<sup>Last update: 1/14/2023</sup>
