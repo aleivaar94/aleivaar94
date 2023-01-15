@@ -10,14 +10,14 @@ I'm Alejandro</h1>
 
 - 💬 Ask me about **data science, data analytics, food science, food safety, smartphone repair**
 
-- 📖 Currently reading Thinking, Fast and Slo by Kahneman, Danie.
+- 📖 Currently reading Thinking, Fast and Slow by Kahneman, Danie.
 
 - 📫 You can reach me at **aj.leivar@gmail.com**
 
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
 
-| ![](https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif) <a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> | ![](https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png) <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
+| <img src="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif"> <a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> | ![](https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png) <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
 |----------|----------|
 
 
