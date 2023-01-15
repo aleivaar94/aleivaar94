@@ -17,7 +17,7 @@ I'm Alejandro</h1>
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
 
-| <img width="250" height="150" src="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif"/> <a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> | <img width="250" height="150" src="https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png"/> <a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
+| <img width="400" height="300" src="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif"/><br><a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> | <img width="400" height="300" src="https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png"/><br><a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
 |----------|----------|
 
 
