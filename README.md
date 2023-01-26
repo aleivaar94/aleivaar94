@@ -15,7 +15,7 @@ I'm Alejandro</h1>
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
 
-| <img src="https://github.com/aleivaar94/TEER-NOC-Wages/blob/master/assets/app-demo-gif.gif"/><br><a href="https://github.com/aleivaar94/TEER-NOC-Wages">Find My Wage </a> |<img src="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif"/><br><a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> |
+| <img src="https://github.com/aleivaar94/TEER-NOC-Wages/blob/master/assets/app-demo-gif.gif"/><br><a href="https://github.com/aleivaar94/TEER-NOC-Wages">Find My Wage </a> |<img src="https://github.com/aleivaar94/Optimizing-Ad-Campaign-Analysis/blob/master/assets/dashboard-demo-gif.gif"/><br><a href="https://github.com/aleivaar94/Optimizing-Ad-Campaign-Analysis">Optimizing Ad Campaign</a> |
 |----------|----------|
 
 
