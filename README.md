@@ -1,23 +1,21 @@
-<h1 align="center">Hi 👋, <br>
+<h1 align="center">Hi 👋 <br>
 I'm Alejandro</h1>
 <p>&nbsp;</p>
 
-- 🏢 I’m currently looking for data analyst positions. I bring domain expertise in the CPG food industry.
+- 🏢 I’m currently looking for data analyst positions.
 
 - 📚 I’m currently learning **Machine Learning, APIs, and Streamlit**.
 
 - 📊 My projects are available in my GitHub repository. Click `Repositories` above or you can also see a list of all my projects below.
 
-- 💬 Ask me about **data science, data analytics, food science, food safety, smartphone repair**
-
-- 📖 Currently reading Thinking, Fast and Slow by Kahneman, Danie.
+- 📖 Currently reading Thinking, Fast and Slow by Kahneman, Daniel.
 
 - 📫 You can reach me at **aj.leivar@gmail.com**
 
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
 
-| <img src="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif"/><br><a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> | <img src="https://github.com/aleivaar94/aleivaar94/blob/master/images/Sales-Data-Analysis.png"/><br><a href="https://github.com/aleivaar94/Mini-Projects/tree/master/Sales-Data-Analysis">Sales Data Analysis </a> |
+| <img src="https://github.com/aleivaar94/TEER-NOC-Wages/blob/master/assets/app-demo-gif.gif"/><br><a href="https://github.com/aleivaar94/TEER-NOC-Wages">Find My Wage </a> |<img src="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis/blob/master/assets/PowerBI-gif.gif"/><br><a href="https://github.com/aleivaar94/Instacart-Ad-Campaign-Analysis">Optimizing Instacart's Ad Campaign</a> |
 |----------|----------|
 
 
@@ -36,8 +34,7 @@ I'm Alejandro</h1>
 | Cell 1   | Cell 2   | Cell 3   |
 | Cell 4   | Cell 5   | Cell 6   | -->
 
-<h3 align="left"> 🔢 All Projects </h3>
-Coming soon...
+
 
 <h3 align="left"> 🫱🏼‍🫲🏽Connect with me:</h3>
 <p align="left">
@@ -65,7 +62,7 @@ Coming soon...
 
 
 <details>
- <summary><h3>🖥️ My Journey into Data</h3></summary>
+ <summary><h3>🖥️ My Journey</h3></summary>
    I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM. There I realized the power a couple lines of code to solve business problems. As a naturally curious person and always looking to learn something new I stumbled upon Python for data analysis. Next thing you know, I was already applying Excel and Python to understand the data collected in my chemistry experiments while I did my masters research in food science at UBC.
    <br>
    <br>
@@ -95,18 +92,6 @@ Coming soon...
 
 <h3 align='center'><b>EXPERIENCE</b></h3>
 <br>
-
-**INSIGHTS & ANALYTICS SPECIALIST |** *Spread'Em Kitchen* 
-<br>
-<sup>Nov 2022 - Dec 2022</sup>
-
-Data analysis of food CPG (consumer packaged goods) sales and marketing
-data to inform effective promotions and efficient distribution points.
-Customer analytics to understand customer needs.
-
-**Key Contributions:**
-
-- Compiled a database of POS reports from 5 different CPG distributors, ensuring data quality and consistency.
 
 **BUSINESS DEVELOPMENT COORDINATOR |** *Herbaland Naturals* 
 <br>
@@ -148,11 +133,11 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 <h3 align='center'><b>EDUCATION</b></h3>
 <br>
 
-**MSc FOOD SCIENCE \|** *University of British Columbia* - Canada
+**MSc FOOD SCIENCE |** *University of British Columbia* - Canada
 <br> 
 <sup>Jan 2019 - Oct 2020</sup>
 
-**BSc BIOTECHNOLOGY ENGINEERING \|** *Tec de Monterrey* - Mexico
+**BSc BIOTECHNOLOGY ENGINEERING |** *Tec de Monterrey* - Mexico
 <br> 
 <sup>Aug 2012 - May 2017</sup>
 
@@ -179,4 +164,55 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 <sup>2020</sup>
 </details>
 
-<sup>Last update: 1/14/2023</sup>
+<br>
+<h3 align="left"> 🔢 All Projects </h3>
+
+---
+<h3 align="left"> Data Analysis & Data Science </h3>
+
+[Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada
+
+[University World Rankings 2023](https://github.com/aleivaar94/University-World-Rankings-2023) - Bar chart race of rankings extracted from The Times Higher Education World University Rankings website from 2011 to 2023.
+
+[Optimizing ROA of a marketing campaign]() - Optimizing an Ad Campaign in the food CPG industry. An Analysis of Return on Ad Spend (ROAS). Applicable to Google Ads and Google Analytics. 
+
+[Market Basket Analysis](https://github.com/aleivaar94/Market-Basket-Analysis-Online-Store) - Analyzing purchasing patterns to provide personalized buying recommendations
+
+[Credit Card Offer Analysis](https://github.com/aleivaar94/BMO-Airmiles-Analysis) - Is a credit card offer giving "miles" better than a cash back card?
+
+[Grocery Store Sales Prediction](https://github.com/aleivaar94/Grocery-Store-Sales-Prediction) - Predicting grocery store sales
+
+[Renew Amazon Prime](https://github.com/aleivaar94/Renew-Amazon-Prime-2022) - With rising cost of services due to inflation, should I renew Amazon prime? A cost-benefit analysis
+
+[Scrapping Canada's Food Safety Recalls (Part I and II)](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011- 2022
+
+[Analyzing Canada's Food Safety Recalls](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022
+
+[Web scrapping Canada's Food Safety Recalls using Selenium and BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recalls-Web-Scrapping-Selenium-BeautifulSoup) - Solidified my interest in learning to web scrape so I can retrieve data and make original data projects.
+
+[Web scrapping Canada's Food Safety Recalls using BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recall-Web-Scrapping-BeautifulSoup) - First time I realized the power of learning how to code to webscrape data from the internet.
+
+[Grupo Bimbo Inventory Demand](https://github.com/aleivaar94/Grupo-Bimbo-Inventory-Demand) - First project I made while starting to learn python for data analysis
+
+---
+<h3 align="left">SQL</h3>
+
+[SQL Database of Save-On-Foods products extracted using API](https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API) - Reverse engineering Save-on-Foods eCommerce website to extract thousands of grocery products purchased from their website.
+
+[Analyzing World Factbook Data](https://github.com/aleivaar94/Analyzing-CIA-Factbook-Data-Using-SQL-) - Exploring CIA World Factbook Database with SQL Queries
+
+---
+
+<h3 align="left">Power BI & Tableau</h3>
+
+Coming soon
+
+---
+
+<h3 align="left">Power BI & Tableau</h3>
+
+Coming soon
+
+---
+
+<sup>Last update: 1/25/2023</sup>
