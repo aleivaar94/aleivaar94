@@ -63,13 +63,12 @@ I'm Alejandro</h1>
 
 <details>
  <summary><h3>🖥️ My Journey</h3></summary>
-   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM. There I realized the power a couple lines of code to solve business problems. As a naturally curious person and always looking to learn something new I stumbled upon Python for data analysis. Next thing you know, I was already applying Excel and Python to understand the data collected in my chemistry experiments while I did my masters research in food science at UBC.
+   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM. There I realized the power a couple lines of code an do to solve business problems. As a naturally curious person and always looking to learn something new to work smarter, I learned Python for data analysis. 
+   
+   I was lucky! because I applyed what I had learned in Excel and Python to understand the data collected in my chemistry experiments while I did my masters research in food science at the University of British Columbia.
    <br>
    <br>
-   After graduating and working in quality and food safety I decided to pursue a career in data although I still remain passionate about the food industry.
-   <br>
-   <br>
-   Keep a look out as I will be uploading more data projects in my repo.
+   After graduatin, I worked in quality and food safety where I used Excel to ensure a sanitary and safe food production. This is when I decided to pursue a career in data although I still remain passionate about the food industry.
    <br>
    <br>
    Cheers!
@@ -186,7 +185,7 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 [Scrapping Canada's Food Safety Recalls (Part I and II)](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011- 2022
 
-[Analyzing Canada's Food Safety Recalls](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022
+[Analyzing Canada's Food Safety Recalls (Part III and IV)](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022
 
 [Web scrapping Canada's Food Safety Recalls using Selenium and BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recalls-Web-Scrapping-Selenium-BeautifulSoup) - Solidified my interest in learning to web scrape so I can retrieve data and make original data projects.
 
@@ -205,14 +204,20 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 <h3 align="left">Power BI & Tableau</h3>
 
-Coming soon
+[Visualizing Insights of Canada's Food Recalls from 2011 to 2022](https://github.com/aleivaar94/Power-BI-Canada-Food-Safety-Recalls) - This dashboard is part of my project to extract and analyze Canada's Food Safety Recalls from 2011 to 2022.
+
+[Supermarket Sales Dashboard](https://github.com/aleivaar94/Power-BI-Supermarket-Sales-Dashboard) - Sales dashboard of open data from a grocery retail store.
+
+[Breakfast Cereals - Healthy or Unhealthy?](https://github.com/aleivaar94/Tableau-Breakfast-Cereals) - Dashboard comparing nutritional information of various well known breakfast cereals based on Canada's Health guidelines.
+
+[Google Search Trends 2020](https://github.com/aleivaar94/Tableau-Google-Search-Trends-2020) - Dashboard of most searched diets in Canada in 2020.
 
 ---
 
-<h3 align="left">Power BI & Tableau</h3>
+<h3 align="left">Excel</h3>
 
-Coming soon
+[Sanitation KPIs](https://github.com/aleivaar94/Excel-Sanitation-KPI) - Sanitation KPIs in a Plant-based meat manufacturing plant.
 
 ---
 
-<sup>Last update: 1/25/2023</sup>
+<sup>Last update: 1/26/2023</sup>
