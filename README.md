@@ -169,36 +169,36 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 ---
 <h3 align="left"> Data Analysis & Data Science </h3>
 
-[Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada
+[Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada.
 
 [University World Rankings 2023](https://github.com/aleivaar94/University-World-Rankings-2023) - Bar chart race of rankings extracted from The Times Higher Education World University Rankings website from 2011 to 2023.
 
-[Optimizing ROA of a marketing campaign]() - Optimizing an Ad Campaign in the food CPG industry. An Analysis of Return on Ad Spend (ROAS). Applicable to Google Ads and Google Analytics. 
+[Optimizing ROA of a marketing campaign](https://github.com/aleivaar94/Optimizing-Ad-Campaign-Analysis) - Optimizing an Ad Campaign in the food CPG industry. An Analysis of Return on Ad Spend (ROAS). Applicable to Google Ads, Amazon Ads and Google Analytics. 
 
-[Market Basket Analysis](https://github.com/aleivaar94/Market-Basket-Analysis-Online-Store) - Analyzing purchasing patterns to provide personalized buying recommendations
+[Market Basket Analysis](https://github.com/aleivaar94/Market-Basket-Analysis-Online-Store) - Analyzing purchasing patterns to provide personalized buying recommendations.
 
-[Credit Card Offer Analysis](https://github.com/aleivaar94/BMO-Airmiles-Analysis) - Is a credit card offer giving "miles" better than a cash back card?
+[Credit Card Offer Analysis](https://github.com/aleivaar94/BMO-Airmiles-Analysis) - Is a credit card offer giving "miles" better than a cash back card?.
 
-[Grocery Store Sales Prediction](https://github.com/aleivaar94/Grocery-Store-Sales-Prediction) - Predicting grocery store sales
+[Grocery Store Sales Prediction](https://github.com/aleivaar94/Grocery-Store-Sales-Prediction) - Predicting grocery store sales using XGBoost.
 
-[Renew Amazon Prime](https://github.com/aleivaar94/Renew-Amazon-Prime-2022) - With rising cost of services due to inflation, should I renew Amazon prime? A cost-benefit analysis
+[Renew Amazon Prime](https://github.com/aleivaar94/Renew-Amazon-Prime-2022) - With rising cost of services due to inflation, should I renew Amazon prime? A cost-benefit analysis.
 
-[Scrapping Canada's Food Safety Recalls (Part I and II)](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011- 2022
+[Scrapping Canada's Food Safety Recalls (Part I and II)](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011- 2022.
 
-[Analyzing Canada's Food Safety Recalls (Part III and IV)](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022
+[Analyzing Canada's Food Safety Recalls (Part III and IV)](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022.
 
 [Web scrapping Canada's Food Safety Recalls using Selenium and BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recalls-Web-Scrapping-Selenium-BeautifulSoup) - Solidified my interest in learning to web scrape so I can retrieve data and make original data projects.
 
 [Web scrapping Canada's Food Safety Recalls using BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recall-Web-Scrapping-BeautifulSoup) - First time I realized the power of learning how to code to webscrape data from the internet.
 
-[Grupo Bimbo Inventory Demand](https://github.com/aleivaar94/Grupo-Bimbo-Inventory-Demand) - First project I made while starting to learn python for data analysis
+[Grupo Bimbo Inventory Demand](https://github.com/aleivaar94/Grupo-Bimbo-Inventory-Demand) - First project I made while starting to learn python for data analysis.
 
 ---
 <h3 align="left">SQL</h3>
 
 [SQL Database of Save-On-Foods products extracted using API](https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API) - Reverse engineering Save-on-Foods eCommerce website to extract thousands of grocery products purchased from their website.
 
-[Analyzing World Factbook Data](https://github.com/aleivaar94/Analyzing-CIA-Factbook-Data-Using-SQL-) - Exploring CIA World Factbook Database with SQL Queries
+[Analyzing World Factbook Data](https://github.com/aleivaar94/Analyzing-CIA-Factbook-Data-Using-SQL-) - Exploring CIA World Factbook Database with SQL Queries.
 
 ---
 
