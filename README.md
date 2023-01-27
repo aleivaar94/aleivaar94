@@ -66,7 +66,7 @@ I'm Alejandro</h1>
    I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM where I realized the power a couple lines of code can do to solve business problems. As a naturally curious person always looking to work smarter, I learned Python for data analysis. 
    <br>
    <br>
-   I was lucky! because I applied what I had learned in Excel and Python to understand the data collected in my research experiments while I did my Masters in Food Science at the University of British Columbia.
+   I was lucky! Because I applied what I had learned in Excel and Python to understand the data collected in my research experiments while I did my Masters in Food Science at the University of British Columbia.
    <br>
    <br>
    After graduation, I worked in quality and food safety where I used Excel to ensure sanitary and safe food production. This is when I decided to pursue a career in data although I still remain passionate about the food industry.
