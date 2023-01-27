@@ -10,7 +10,7 @@ I'm Alejandro</h1>
 
 - 📖 Currently reading Thinking, Fast and Slow by Kahneman, Daniel.
 
-- 📫 You can reach me at **aj.leivar@gmail.com**
+- 📫 You can reach me at **aj.leivar@gmail.com** or [LinkedIn](https://www.linkedin.com/in/ale-leivaar/)
 
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
@@ -63,12 +63,13 @@ I'm Alejandro</h1>
 
 <details>
  <summary><h3>🖥️ My Journey</h3></summary>
-   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM. There I realized the power a couple lines of code an do to solve business problems. As a naturally curious person and always looking to learn something new to work smarter, I learned Python for data analysis. 
-   
-   I was lucky! because I applyed what I had learned in Excel and Python to understand the data collected in my chemistry experiments while I did my masters research in food science at the University of British Columbia.
+   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM where I realized the power a couple lines of code can do to solve business problems. As a naturally curious person always looking to work smarter, I learned Python for data analysis. 
    <br>
    <br>
-   After graduatin, I worked in quality and food safety where I used Excel to ensure a sanitary and safe food production. This is when I decided to pursue a career in data although I still remain passionate about the food industry.
+   I was lucky! because I applied what I had learned in Excel and Python to understand the data collected in my research experiments while I did my Masters in Food Science at the University of British Columbia.
+   <br>
+   <br>
+   After graduation, I worked in quality and food safety where I used Excel to ensure sanitary and safe food production. This is when I decided to pursue a career in data although I still remain passionate about the food industry.
    <br>
    <br>
    Cheers!
@@ -96,37 +97,41 @@ I'm Alejandro</h1>
 <br>
 <sup>Apr 2022 - Jul 2022</sup>
 
-Project management of nutraceutical, candy, and snack private label
-projects. Communication of customers business needs to key areas of the
-business. Providing sales pitches and maintaining customer
-relationships.
+✅ Project management of nutraceutical, candy, and snack private label products. 
+
+✅ Developed departmental procedures for business continuity.
+
+<br>
 
 **QUALITY ASSURANCE TECHNICIAN |** *The Very Good Food Co* 
 <br>
 <sup>Feb 2021 - Feb 2022</sup>
 
-Monitoring and maintenance of the quality KPIs and the food safety
-management system. Developed standard operating procedures (SOPs),
-including change management process of raw materials. Led internal GMP
-audits.
+✅ Created an electronic system using MS Excel to record and analyze sanitation KPIs as part of the food safety program, which was instrumental in achieving SQF - a globally recognized food safety audit.
 
-**Key Contributions:**
+✅ Supported the development of the quality and food safety management system for a plant-based food technology startup with 3000+ distribution points across Canada and the USA.
 
--   Created a system to log and analyse sanitation KPIs using Excel that
-    demonstrated effective hygiene procedures to globally recognized
-    third party food safety audit. Project in Portfolio.
+✅ Developed standard operating procedures (SOPs), and performed root cause analysis and GMPs (Good Manufacturing Practices) to improve business operations.
+
+<br>
+
+**RESEARCH ASSISTANT |** *University of British Columbia*
+<br>
+<sup>Jan 2019 - Oct 2020</sup>
+
+✅Implemented Statistical Design of Experiments and Machine Learning (multiple linear regression) to develop a fortified tea that reduces the prevalence of iron and zinc deficiencies.
+
+📜Published a scientific research paper: Double fortified (iron and zinc) spray-dried microencapsulated premix for food fortification – Food Science and Technology Journal. ➡️ https://bit.ly/358DKzM
+
+<br>
 
 **QUALITY ENGINEER |** *IBM* 
 <br>
 <sup>Dec 2017 - Oct 2018</sup>
 
-Responsible for monitoring and reporting quality KPIs using data
-analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
+✅Monitored KPIs and executed continuous improvement projects in quality performance for Power Products (data processing servers) using data analysis (Excel/SQL/BI Cognos Analytics) and Lean Six Sigma tools.
 
-**Key Contributions:**
-
--   Reduced hard drive screw defects by 15%, which resulted in increased
-    speed assembly and 110k+ annual savings related to waste.
+✅Reduced hard drive screw defects by 15%, which resulted in increased speed assembly and +110K annual savings related to waste.
 
 ---
 <h3 align='center'><b>EDUCATION</b></h3>
@@ -173,11 +178,11 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 [University World Rankings 2023](https://github.com/aleivaar94/University-World-Rankings-2023) - Bar chart race of rankings extracted from The Times Higher Education World University Rankings website from 2011 to 2023.
 
-[Optimizing ROA of a marketing campaign](https://github.com/aleivaar94/Optimizing-Ad-Campaign-Analysis) - Optimizing an Ad Campaign in the food CPG industry. An Analysis of Return on Ad Spend (ROAS). Applicable to Google Ads, Amazon Ads and Google Analytics. 
+[Optimizing ROA of a marketing campaign](https://github.com/aleivaar94/Optimizing-Ad-Campaign-Analysis) - Optimizing an Ad Campaign in the food CPG industry: An Analysis of Return on Ad Spend (ROAS). Applicable to Google Ads, Amazon Ads and Google Analytics. 
 
 [Market Basket Analysis](https://github.com/aleivaar94/Market-Basket-Analysis-Online-Store) - Analyzing purchasing patterns to provide personalized buying recommendations.
 
-[Credit Card Offer Analysis](https://github.com/aleivaar94/BMO-Airmiles-Analysis) - Is a credit card offer giving "miles" better than a cash back card?.
+[Credit Card Offer Analysis](https://github.com/aleivaar94/BMO-Airmiles-Analysis) - Is a credit card offer giving "miles" better than a cash back card?
 
 [Grocery Store Sales Prediction](https://github.com/aleivaar94/Grocery-Store-Sales-Prediction) - Predicting grocery store sales using XGBoost.
 
@@ -189,7 +194,7 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 [Web scrapping Canada's Food Safety Recalls using Selenium and BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recalls-Web-Scrapping-Selenium-BeautifulSoup) - Solidified my interest in learning to web scrape so I can retrieve data and make original data projects.
 
-[Web scrapping Canada's Food Safety Recalls using BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recall-Web-Scrapping-BeautifulSoup) - First time I realized the power of learning how to code to webscrape data from the internet.
+[Web scrapping Canada's Food Safety Recalls using BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recall-Web-Scrapping-BeautifulSoup) - First time I realized the power of learning how to code to web scrape data from the internet.
 
 [Grupo Bimbo Inventory Demand](https://github.com/aleivaar94/Grupo-Bimbo-Inventory-Demand) - First project I made while starting to learn python for data analysis.
 
@@ -220,4 +225,4 @@ analysis with Excel, SQL, and BI Cognos Analytics (BI Tool).
 
 ---
 
-<sup>Last update: 1/26/2023</sup>
+<sup>Last update: 1/27/2023</sup>
