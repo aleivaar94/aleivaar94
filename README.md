@@ -2,7 +2,7 @@
 I'm Alejandro</h1>
 <p>&nbsp;</p>
 
-- 🏢 I’m currently looking for data analyst positions.
+- 🏢 I’m currently looking for data analyst, business analyst, demand/supply planning positions.
 
 - 📚 I’m currently learning **Machine Learning, APIs, and Streamlit**.
 
