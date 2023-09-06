@@ -2,13 +2,11 @@
 I'm Alejandro</h1>
 <p>&nbsp;</p>
 
-- 🏢 I’m currently looking for data analyst, business analyst, demand/supply planning positions.
+- 🏢 I’m currently looking for analyst positions, including but not limited to: data analyst, data scientists, business analyst, customer/sales analyst, operations analyst.
 
-- 📚 I’m currently learning **Machine Learning, APIs, and Streamlit**.
+- 📚 I’m currently learning **Machine Learning**, and LLM **(Largue Language Models)**.
 
 - 📊 My projects are available in my GitHub repository. Click `Repositories` above or you can also see a list of all my projects below.
-
-- 📖 Currently reading Thinking, Fast and Slow by Kahneman, Daniel.
 
 - 📫 You can reach me at **aj.leivar@gmail.com** or [LinkedIn](https://www.linkedin.com/in/ale-leivaar/)
 
@@ -58,115 +56,6 @@ I'm Alejandro</h1>
 <!-- if you want to add hyperlink to icon: -->
 <!-- <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="d3js" width="40" height="40"/> </a>  -->
 
-
-
-
-<details>
- <summary><h3>🖥️ My Journey</h3></summary>
-   I was introduced to SQL and advanced Excel when I was working as a quality engineer for IBM where I realized the power a couple lines of code can do to solve business problems. As a naturally curious person always looking to work smarter, I learned Python for data analysis. 
-   <br>
-   <br>
-   I was lucky! Because I applied what I had learned in Excel and Python to understand the data collected in my research experiments while I did my Masters in Food Science at the University of British Columbia.
-   <br>
-   <br>
-   After graduation, I worked in quality and food safety where I used Excel to ensure sanitary and safe food production. This is when I decided to pursue a career in data although I still remain passionate about the food industry.
-   <br>
-   <br>
-   Cheers!
-</details>
-
-<details>
- <summary><h3>📜 Resume</h3></summary>
-
-<h3 align='center'><b>SKILLS</b></h3>
-
-<center>
-
-| BI Tools | Data Analysis | Databases | Other  |
-|:-------------|:---------------:|:---------------:|:-----|
-| Power BI, Tableau | Python, Excel   | SQL | SAP, MRPEasy  |
-
-</center>
-
----
-
-<h3 align='center'><b>EXPERIENCE</b></h3>
-<br>
-
-**BUSINESS DEVELOPMENT COORDINATOR |** *Herbaland Naturals* 
-<br>
-<sup>Apr 2022 - Jul 2022</sup>
-
-✅ Project management of nutraceutical, candy, and snack private label products. 
-
-✅ Developed departmental procedures for business continuity.
-
-<br>
-
-**QUALITY ASSURANCE TECHNICIAN |** *The Very Good Food Co* 
-<br>
-<sup>Feb 2021 - Feb 2022</sup>
-
-✅ Created an electronic system using MS Excel to record and analyze sanitation KPIs as part of the food safety program, which was instrumental in achieving SQF - a globally recognized food safety audit.
-
-✅ Supported the development of the quality and food safety management system for a plant-based food technology startup with 3000+ distribution points across Canada and the USA.
-
-✅ Developed standard operating procedures (SOPs), and performed root cause analysis and GMPs (Good Manufacturing Practices) to improve business operations.
-
-<br>
-
-**RESEARCH ASSISTANT |** *University of British Columbia*
-<br>
-<sup>Jan 2019 - Oct 2020</sup>
-
-✅Implemented Statistical Design of Experiments and Machine Learning (multiple linear regression) to develop a fortified tea that reduces the prevalence of iron and zinc deficiencies.
-
-📜Published a scientific research paper: Double fortified (iron and zinc) spray-dried microencapsulated premix for food fortification – Food Science and Technology Journal. ➡️ https://bit.ly/358DKzM
-
-<br>
-
-**QUALITY ENGINEER |** *IBM* 
-<br>
-<sup>Dec 2017 - Oct 2018</sup>
-
-✅Monitored KPIs and executed continuous improvement projects in quality performance for Power Products (data processing servers) using data analysis (Excel/SQL/BI Cognos Analytics) and Lean Six Sigma tools.
-
-✅Reduced hard drive screw defects by 15%, which resulted in increased speed assembly and +110K annual savings related to waste.
-
----
-<h3 align='center'><b>EDUCATION</b></h3>
-<br>
-
-**MSc FOOD SCIENCE |** *University of British Columbia* - Canada
-<br> 
-<sup>Jan 2019 - Oct 2020</sup>
-
-**BSc BIOTECHNOLOGY ENGINEERING |** *Tec de Monterrey* - Mexico
-<br> 
-<sup>Aug 2012 - May 2017</sup>
-
-
----
-
-<h3 align='center'><b>PROFESSIONAL DEVELOPMENT</b></h3>
-<br>
-
-**DATA SCIENTIST: MACHINE LEARNINING \|** *Codecademy*
-<br> 
-<sup>2022</sup>
-
-**DATA SCIENTIST: NATURAL LANGUAGE PROCESSING \|** *Codecademy*
-<br> 
-<sup>2022</sup>
-
-**DATA SCIENTIST: ANALYTICS SPECIALIST \|** *Codecademy*
-<br> 
-<sup>2022</sup>
-
-**DATA ANALYST IN PYTHON \|** *Dataquest*
-<br> 
-<sup>2020</sup>
-</details>
 
 <br>
 <h3 align="left"> 🔢 All Projects </h3>
@@ -225,4 +114,4 @@ I'm Alejandro</h1>
 
 ---
 
-<sup>Last update: 1/27/2023</sup>
+<sup>Last update: 09/06/2023</sup>
