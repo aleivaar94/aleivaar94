@@ -2,13 +2,13 @@
 I'm Alejandro</h1>
 <p>&nbsp;</p>
 
-- 🏢 I’m currently looking for analyst positions, including but not limited to: data analyst, data scientists, business analyst, customer/sales analyst, operations analyst.
+- ⚙️ An enginner/scientist turned data geek.
 
-- 📚 I’m currently learning **Machine Learning**, and LLM **(Largue Language Models)**.
+- 🐈 Higly curious and always learning something new.
 
 - 📊 My projects are available in my GitHub repository. Click `Repositories` above or you can also see a list of all my projects below.
 
-- 📫 You can reach me at **aj.leivar@gmail.com** or [LinkedIn](https://www.linkedin.com/in/ale-leivaar/)
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/ale-leivaar/)
 
 ---
 <h3 align="left"> 🏗️ Recent Projects </h3>
@@ -114,4 +114,4 @@ I'm Alejandro</h1>
 
 ---
 
-<sup>Last update: 09/06/2023</sup>
+<sup>Last update: 11/30/2023</sup>
