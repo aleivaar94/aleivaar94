@@ -4,7 +4,7 @@ I'm Alejandro</h1>
 
 - ⚙️ An enginner/scientist turned data geek.
 
-- 🐈 Higly curious and always learning something new.
+- 🐈 Highly curious and always learning something new.
 
 - 📊 My projects are available in my GitHub repository. Click `Repositories` above or you can also see a list of all my projects below.
 
