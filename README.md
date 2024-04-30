@@ -49,7 +49,6 @@ I'm Alejandro</h1>
 
 <img width="400" height="200" src="https://github.com/aleivaar94/Optimizing-Ad-Campaign-Analysis/blob/master/assets/dashboard-demo-gif.gif"/>
 
-
 [Market Basket Analysis](https://github.com/aleivaar94/Market-Basket-Analysis-Online-Store) - Analyzing purchasing patterns to provide personalized buying recommendations. <sup>2022-09-10</sup>
 
 [Credit Card Offer Analysis](https://github.com/aleivaar94/BMO-Airmiles-Analysis) - Is a credit card offer giving "miles" better than a cash back card? <sup>2022-09-06</sup>
@@ -74,8 +73,10 @@ I'm Alejandro</h1>
 
 [Grupo Bimbo Inventory Demand](https://github.com/aleivaar94/Grupo-Bimbo-Inventory-Demand) - First project I made while starting to learn python for data analysis. <sup>2020-09-29</sup>
 
----
-<h3 align="left">SQL</h3>
+<h2 align="left">Data Engineering</h2>
+🏗️ Coming Soon!
+
+<h2 align="left">Databases | SQL</h2>
 
 [SQL Database of Save-On-Foods products extracted using API](https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API) - Reverse engineering Save-on-Foods eCommerce website to extract thousands of grocery products purchased from their website. <sup>2021-09-18</sup>
 
@@ -84,9 +85,8 @@ I'm Alejandro</h1>
 [Analyzing World Factbook Data](https://github.com/aleivaar94/Analyzing-CIA-Factbook-Data-Using-SQL-) - Exploring CIA World Factbook Database with SQL Queries. <sup>2022-09-07</sup>
 
 
----
 
-<h3 align="left">Power BI & Tableau</h3>
+<h2 align="left">Power BI & Tableau</h2>
 
 [Visualizing Insights of Canada's Food Recalls from 2011 to 2022](https://github.com/aleivaar94/Power-BI-Canada-Food-Safety-Recalls) - This dashboard is part of my project to extract and analyze Canada's Food Safety Recalls from 2011 to 2022. <sup>2022-09-12</sup>
 
@@ -104,9 +104,8 @@ I'm Alejandro</h1>
 
 <img width="400" height="800" src="https://github.com/aleivaar94/Tableau-Google-Search-Trends-2020/blob/master/Viz-whole-snapshot.png"/>
 
----
 
-<h3 align="left">Excel</h3>
+<h2 align="left">Excel</h2>
 
 [Sanitation KPIs](https://github.com/aleivaar94/Excel-Sanitation-KPI) - Sanitation KPIs in a Plant-based meat manufacturing plant. <sup>2021-01-01</sup>
 
