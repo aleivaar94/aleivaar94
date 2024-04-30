@@ -34,7 +34,7 @@ I'm Alejandro</h1>
 <h2 align="left"> 🔢 All Projects </h2> 
 <sup>Last update: 2024-04-30</sup>
 
-<h3 align="left"> Data Analysis & Data Science </h3>
+<h2 align="left"> Data Analysis & Data Science </h2>
 
 [Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada.<sup>2023-01-20</sup>
 
