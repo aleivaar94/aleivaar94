@@ -43,7 +43,7 @@ I'm Alejandro</h1>
 [University World Rankings 2023](https://github.com/aleivaar94/University-World-Rankings-2023) - Bar chart race of rankings extracted from The Times Higher Education World University Rankings website from 2011 to 2023. 
 <sup>2023-01-17</sup>
 
-<img width="400" height="200" src="https://github.com/aleivaar94/University-World-Rankings-2023/blob/master/assets/times-higher-logo.png"/>
+<img width="400" height="200" src="https://github.com/aleivaar94/University-World-Rankings-2023/blob/master/assets/Bar-chart-race-gif.gif"/>
 
 [Optimizing ROA of a marketing campaign](https://github.com/aleivaar94/Optimizing-Ad-Campaign-Analysis) - Optimizing an Ad Campaign in the food CPG industry: An Analysis of Return on Ad Spend (ROAS). Applicable to Google Ads, Amazon Ads and Google Analytics. <sup>2023-01-26</sup>
 
@@ -98,11 +98,11 @@ I'm Alejandro</h1>
 
 [Breakfast Cereals - Healthy or Unhealthy?](https://github.com/aleivaar94/Tableau-Breakfast-Cereals) - Dashboard comparing nutritional information of various well known breakfast cereals based on Canada's Health guidelines. <sup>2020-01-01</sup>
 
-<img width="400" height="200" src="https://github.com/aleivaar94/Tableau-Breakfast-Cereals/blob/master/assets/cereals-dashboard-gif.gif"/>
+<img width="400" height="300" src="https://github.com/aleivaar94/Tableau-Breakfast-Cereals/blob/master/assets/cereals-dashboard-gif.gif"/>
 
 [Google Search Trends 2020](https://github.com/aleivaar94/Tableau-Google-Search-Trends-2020) - Dashboard of most searched diets in Canada in 2020. <sup>2020-06-10</sup>
 
-<img width="400" height="200" src="https://github.com/aleivaar94/Tableau-Google-Search-Trends-2020/blob/master/Viz-whole-snapshot.png"/>
+<img width="400" height="800" src="https://github.com/aleivaar94/Tableau-Google-Search-Trends-2020/blob/master/Viz-whole-snapshot.png"/>
 
 ---
 
