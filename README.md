@@ -34,15 +34,11 @@ I'm Alejandro</h1>
 <h2 align="left"> 🔢 All Projects </h2> 
 <sup>Last update: 2024-04-30</sup>
 
-<h2 align="left"> Data Science | Data Analysis </h2>
+<h1 align="left"> Data Science | Data Analysis </h1>
 
 [State of the alternative protein industry in 2023](https://github.com/aleivaar94/Alt_Proteins_GFI) - Analysis of the alternative protein company database from the Good Food Institute (GFI) to describe the state of alternative protein market since it's decline in 2019. <sup>2024-01-22</sup>
 
 <img width="400" height="300" src="https://github.com/aleivaar94/Alt_Proteins_GFI/raw/main/assets/state_alt_protein_2023.gif"/>
-
-[Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada. <sup>2023-01-20</sup>
-
-<img width="400" height="200" src="https://github.com/aleivaar94/TEER-NOC-Wages/blob/master/assets/app-demo-gif.gif"/>
 
 [University World Rankings 2023](https://github.com/aleivaar94/University-World-Rankings-2023) - Bar chart race of rankings extracted from The Times Higher Education World University Rankings website from 2011 to 2023. 
 <sup>2023-01-17</sup>
@@ -63,21 +59,15 @@ I'm Alejandro</h1>
 
 <img width="400" height="200" src="https://github.com/aleivaar94/Renew-Amazon-Prime-2022/blob/master/images/boxplot-orders-2022.png"/>
 
-[Scrapping Canada's Food Safety Recalls (Part I and II)](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011- 2022. <sup>2022-09-05</sup>
-
-<img width="400" height="200" src="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/blob/master/assets/extracting-recalls-links.gif"/>
-
 [Analyzing Canada's Food Safety Recalls (Part III and IV)](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022 .<sup>2022-09-12</sup>
 
 <img width="400" height="200" src="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif"/>
 
-[Web scrapping Canada's Food Safety Recalls using Selenium and BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recalls-Web-Scrapping-Selenium-BeautifulSoup) - Solidified my interest in learning to web scrape so I can retrieve data and make original data projects. <sup>2021-02-15</sup>
-
-[Web scrapping Canada's Food Safety Recalls using BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recall-Web-Scrapping-BeautifulSoup) - First time I realized the power of learning how to code to web scrape data from the internet. <sup>2021-02-15</sup>
-
 [Grupo Bimbo Inventory Demand](https://github.com/aleivaar94/Grupo-Bimbo-Inventory-Demand) - First project I made while starting to learn python for data analysis. <sup>2020-09-29</sup>
 
-<h2 align="left">Data Engineering</h2>
+---
+
+<h1 align="left">Data Engineering</h1>
 
 [AirQ-Forecaster: An ETL-to-ML Pipeline for Predicting Air Quality Index](https://github.com/aleivaar94/ETL-pipeline-ML) - ETL (Extract, Transform, Load) pipeline to extract air quality measurements from the OpenAQ API and store them in DuckDB and MotherDuck (SQL OLAP database). An ARIMA model is used to predict the air quality index (time-series forecasting). <sup>2023-11-05</sup>
 
@@ -88,8 +78,17 @@ I'm Alejandro</h1>
 
 <img width="400" height="250" src="https://github.com/aleivaar94/CERN_Jobs/raw/main/cern_jobs.png"/>
 
+---
 
-<h2 align="left">Databases | SQL</h2>
+<h1 align="left">Web App</h1>
+
+[Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada. <sup>2023-01-20</sup>
+
+<img width="400" height="200" src="https://github.com/aleivaar94/TEER-NOC-Wages/blob/master/assets/app-demo-gif.gif"/>
+
+---
+
+<h1 align="left">Databases | SQL</h1>
 
 [SQL Database of Save-On-Foods products extracted using API](https://github.com/aleivaar94/SQL-Database-of-Save-On-Foods-Products-Extracted-Using-API) - Reverse engineering Save-on-Foods eCommerce website to extract thousands of grocery products purchased from their website. <sup>2021-09-18</sup>
 
@@ -122,3 +121,14 @@ I'm Alejandro</h1>
 
 [Sanitation KPIs](https://github.com/aleivaar94/Excel-Sanitation-KPI) - Sanitation KPIs in a Plant-based meat manufacturing plant. <sup>2021-01-01</sup>
 
+---
+
+<h1 align="left">Web Scraping</h1>
+
+[Scrapping Canada's Food Safety Recalls (Part I and II)](https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Scrapping Food Recalls from Government of Canada Recalls and Safety Alerts 2011- 2022. <sup>2022-09-05</sup>
+
+<img width="400" height="200" src="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/blob/master/assets/extracting-recalls-links.gif"/>
+
+[Web scrapping Canada's Food Safety Recalls using Selenium and BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recalls-Web-Scrapping-Selenium-BeautifulSoup) - Solidified my interest in learning to web scrape so I can retrieve data and make original data projects. <sup>2021-02-15</sup>
+
+[Web scrapping Canada's Food Safety Recalls using BeautifulSoup](https://github.com/aleivaar94/Project-CFIA-Food-Recall-Web-Scrapping-BeautifulSoup) - First time I realized the power of learning how to code to web scrape data from the internet. <sup>2021-02-15</sup>
