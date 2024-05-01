@@ -73,7 +73,7 @@ I'm Alejandro</h1>
 
 <img width="400" height="300" src="https://github.com/beltran-oscar/ETL-pipeline-ML/blob/main/images/flowchart.png"/>
 
-<h2 align="left">Data Visualization</h2>
+<h1 align="left">Data Visualization</h1>
 [What job would you like to do at CERN?](https://github.com/aleivaar94/CERN_Jobs) - Data visualization of a science activity survey at CERN (Conseil Européen pour la Recherche Nucléaire). <sup>2020-03-31</sup>
 
 <img width="400" height="250" src="https://github.com/aleivaar94/CERN_Jobs/raw/main/cern_jobs.png"/>
@@ -98,7 +98,7 @@ I'm Alejandro</h1>
 
 
 
-<h2 align="left">Power BI & Tableau</h2>
+<h1 align="left">Power BI & Tableau</h1>
 
 [Visualizing Insights of Canada's Food Recalls from 2011 to 2022](https://github.com/aleivaar94/Power-BI-Canada-Food-Safety-Recalls) - This dashboard is part of my project to extract and analyze Canada's Food Safety Recalls from 2011 to 2022. <sup>2022-09-12</sup>
 
@@ -117,7 +117,7 @@ I'm Alejandro</h1>
 <img width="400" height="800" src="https://github.com/aleivaar94/Tableau-Google-Search-Trends-2020/blob/master/Viz-whole-snapshot.png"/>
 
 
-<h2 align="left">Excel</h2>
+<h1 align="left">Excel</h1>
 
 [Sanitation KPIs](https://github.com/aleivaar94/Excel-Sanitation-KPI) - Sanitation KPIs in a Plant-based meat manufacturing plant. <sup>2021-01-01</sup>
 
