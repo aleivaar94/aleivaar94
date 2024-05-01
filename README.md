@@ -34,9 +34,13 @@ I'm Alejandro</h1>
 <h2 align="left"> 🔢 All Projects </h2> 
 <sup>Last update: 2024-04-30</sup>
 
-<h2 align="left"> Data Analysis & Data Science </h2>
+<h2 align="left"> Data Science | Data Analysis </h2>
 
-[Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada.<sup>2023-01-20</sup>
+[State of the alternative protein industry in 2023](https://github.com/aleivaar94/Alt_Proteins_GFI) - Analysis of the alternative protein company database from the Good Food Institute (GFI) to describe the state of alternative protein market since it's decline in 2019. <sup>2024-01-22</sup>
+
+<img width="400" height="300" src="https://github.com/aleivaar94/Alt_Proteins_GFI/raw/main/assets/state_alt_protein_2023.gif"/>
+
+[Find My Wage](https://github.com/aleivaar94/TEER-NOC-Wages) - Findmywage is an app that provides reliable and up to date wages for various job positions based on the NOC classification in Canada. <sup>2023-01-20</sup>
 
 <img width="400" height="200" src="https://github.com/aleivaar94/TEER-NOC-Wages/blob/master/assets/app-demo-gif.gif"/>
 
@@ -63,7 +67,7 @@ I'm Alejandro</h1>
 
 <img width="400" height="200" src="https://github.com/aleivaar94/Part-I-Part-II-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/blob/master/assets/extracting-recalls-links.gif"/>
 
-[Analyzing Canada's Food Safety Recalls (Part III and IV)](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022. <sup>2022-09-12</sup>
+[Analyzing Canada's Food Safety Recalls (Part III and IV)](https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts) - Analyzing and Visualizing Government of Canada Recalls 2011-2022 .<sup>2022-09-12</sup>
 
 <img width="400" height="200" src="https://github.com/aleivaar94/Part-III-Part-IV-Scrapping-Food-Recalls-from-Government-of-Canada-Recalls-and-Safety-Alerts/raw/master/Power-BI/CFIA-recalls-2022.gif"/>
 
@@ -74,7 +78,16 @@ I'm Alejandro</h1>
 [Grupo Bimbo Inventory Demand](https://github.com/aleivaar94/Grupo-Bimbo-Inventory-Demand) - First project I made while starting to learn python for data analysis. <sup>2020-09-29</sup>
 
 <h2 align="left">Data Engineering</h2>
-🏗️ Coming Soon!
+
+[AirQ-Forecaster: An ETL-to-ML Pipeline for Predicting Air Quality Index](https://github.com/aleivaar94/ETL-pipeline-ML) - ETL (Extract, Transform, Load) pipeline to extract air quality measurements from the OpenAQ API and store them in DuckDB and MotherDuck (SQL OLAP database). An ARIMA model is used to predict the air quality index (time-series forecasting). <sup>2023-11-05</sup>
+
+<img width="400" height="300" src="https://github.com/beltran-oscar/ETL-pipeline-ML/blob/main/images/flowchart.png"/>
+
+<h2 align="left">Data Visualization</h2>
+[What job would you like to do at CERN?](https://github.com/aleivaar94/CERN_Jobs) - Data visualization of a science activity survey at CERN (Conseil Européen pour la Recherche Nucléaire). <sup>2020-03-31</sup>
+
+<img width="400" height="250" src="https://github.com/aleivaar94/CERN_Jobs/raw/main/cern_jobs.png"/>
+
 
 <h2 align="left">Databases | SQL</h2>
 
